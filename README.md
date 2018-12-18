@@ -1,3 +1,3 @@
-# Snake_vs_Blocks_
+# Snake_vs_Blocks
 
 Snakes_vs_Blocks_GAME
