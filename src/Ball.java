@@ -57,7 +57,7 @@ public class Ball extends token{
 	/**
 	 * returns an integer value showing whether the distance is less than a given range
 	 * @param x x coordinate of this object
-	 * @param y y coodrinate of this object
+	 * @param y y coodrinate of this objects
 	 * @return
 	 * returns an integer
 	 */
